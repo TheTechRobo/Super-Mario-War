@@ -4,8 +4,8 @@
 
 # Super Mario War 1.7 April Fools Edition - ReadMe
 
-2004-2007 (c) Florian Hufsky, Two52, and many others.  
-Last ReadMe update: 26 March 2007  
+2004-2015 (c) Florian Hufsky, Two52, Thanatermesis, hhirsch, and many others.  
+Last ReadMe update: 25 May 2020  
 
 [Official Super Mario War Website](http://smw.72dpiarmy.com)  
 [Official Super Mario War Forums](http://forum.72dpiarmy.com)  
@@ -104,6 +104,8 @@ From this menu, you can access everything else in the game.
 
 ### [PC - Keyboard [click to view]](javascript:toggleIt('pck'))
 
+<!--Thanks to https://www.tablesgenerator.com/markdown_tables for generating this table, I was too lazy to figure it out :p-->
+
 <div id="pck" style="display: none;">
 
 The following are the default controls. Controls can be configured within the Controls menu, accessible from the main menu. From there, you can also switch your input devices to joysticks (see the next section for information on joystick controls).
@@ -112,137 +114,16 @@ The following are the default controls. Controls can be configured within the Co
 
 <div>
 
-<table>
-
-<tbody>
-
-<tr class="borderbottom">
-
-<td>Player 1</td>
-
-<td>Player 2</td>
-
-<td>Player 3</td>
-
-<td>Player 4</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Left</td>
-
-<td>Left Arrow</td>
-
-<td>A</td>
-
-<td>G</td>
-
-<td>L</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Right</td>
-
-<td>Right Arrow</td>
-
-<td>D</td>
-
-<td>J</td>
-
-<td>'</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Jump</td>
-
-<td>Up Arrow</td>
-
-<td>W</td>
-
-<td>Y</td>
-
-<td>P</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Down</td>
-
-<td>Down Arrow</td>
-
-<td>S</td>
-
-<td>H</td>
-
-<td>;</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Turbo</td>
-
-<td>R. Ctrl</td>
-
-<td>E</td>
-
-<td>U</td>
-
-<td>[</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Use Item</td>
-
-<td>R. Shift</td>
-
-<td>Q</td>
-
-<td>T</td>
-
-<td>O</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Pause</td>
-
-<td>Enter</td>
-
-<td>n/a</td>
-
-<td>n/a</td>
-
-<td>n/a</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Exit</td>
-
-<td>Esc</td>
-
-<td>n/a</td>
-
-<td>n/a</td>
-
-<td>n/a</td>
-
-</tr>
-
-</tbody>
-
-</table>
+| Control  | Player 1    | Player 2 | Player 3 | Player 4           |
+|----------|-------------|----------|----------|--------------------|
+| Left     | Left arrow  | A        | G        | L                  |
+| Right    | Right arrow | D        | J        | ' (apostrophe)     |
+| Jump     | Up arrow    | W        | Y        | P                  |
+| Down     | Down arrow  | S        | H        | ; (semicolon)      |
+| Turbo    | Right Ctrl  | E        | U        | [ (square bracket) |
+| Use Item | Right Shift | Q        | T        | O                  |
+| Pause    | Enter       | n/a      | n/a      | n/a                |
+| Exit     | esc         | n/a      | n/a      | n/a                |
 
 *   Press **Left** or **Right** to move left or right.*   Press **Jump** to jump. Press **Down** to jump down through certain platforms.*   Press **Turbo** to fire your weapon or to explode if you are a Bob-Omb. Hold **Turbo** and press **Left** or **Right** to run. While running, you can pick up shells and blue blocks that are not moving. To throw these items forward, release the Turbo key. To drop shells without throwing them, hold **Down** and release the Turbo key.*   Press **Use Item** to use whatever item is stored in your Item box. For more information on items, see their section below.*   Press **Pause** to pause the game. Press it a second time to resume.*   Press **Exit** to pause the game and bring up a dialog box. From there, you can either resume play or quit the game and return to the Game Selection menu.*   Once the game has ended and the victory fanfare has played, pressing either **Pause** or **Exit** will exit the game and return you to the Game Selection menu (or to the Scoreboard if in a Tournament or a Tour).</div>
 
@@ -250,137 +131,16 @@ The following are the default controls. Controls can be configured within the Co
 
 <div>
 
-<table>
-
-<tbody>
-
-<tr class="borderbottom">
-
-<td>Player 1</td>
-
-<td>Player 2</td>
-
-<td>Player 3</td>
-
-<td>Player 4</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Up</td>
-
-<td>Up Arrow</td>
-
-<td>W</td>
-
-<td>Y</td>
-
-<td>P</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Down</td>
-
-<td>Down Arrow</td>
-
-<td>S</td>
-
-<td>H</td>
-
-<td>:</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Left</td>
-
-<td>Left Arrow</td>
-
-<td>A</td>
-
-<td>G</td>
-
-<td>L</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Right</td>
-
-<td>Right Arrow</td>
-
-<td>D</td>
-
-<td>J</td>
-
-<td>'</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Select</td>
-
-<td>Enter</td>
-
-<td>E</td>
-
-<td>U</td>
-
-<td>[</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Cancel</td>
-
-<td>Escape</td>
-
-<td>Q</td>
-
-<td>T</td>
-
-<td>O</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Random</td>
-
-<td>Space Bar</td>
-
-<td>n/a</td>
-
-<td>n/a</td>
-
-<td>n/a</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Fast Scroll</td>
-
-<td>L. Shift</td>
-
-<td>n/a</td>
-
-<td>n/a</td>
-
-<td>n/a</td>
-
-</tr>
-
-</tbody>
-
-</table>
+| Control     | Player 1    | Player 2 | Player 3 | Player 4           |
+|-------------|-------------|----------|----------|--------------------|
+| Left        | Left arrow  | A        | G        | L                  |
+| Right       | Right arrow | D        | J        | ' (apostrophe)     |
+| Up          | Up arrow    | W        | Y        | P                  |
+| Down        | Down arrow  | S        | H        | : (colon)          |
+| Select      | Enter       | E        | U        | [ (square bracket) |
+| Cancel      | esc         | Q        | T        | O                  |
+| Random      | Spacebar    | n/a      | n/a      | n/a                |
+| Fast Scroll | Left Shift  | n/a      | n/a      | n/a                |
 
 *   Only Player 1's menu controls may be used in most menus.*   Use **Up**, **Down**, **Left**, and **Right** to navigate through menu choices, map thumbnails, etc.*   Press **Select** to select options and confirm choices.*   Press **Cancel** to return to the previous menu.*   To change a configurable choice, highlight it and press **Select**. Use **Left** or **Right** to cycle between available options, or press **Random** to have the computer select an available option at random. Press **Select** or **Cancel** to lock in your selection. When using a slider, like the ones on the Item Selection screen, you can also hold **Fast Scroll** and press **Left** or **Right** to jump from to one end or the other.*   On the main menu, to change player settings, press **Left** or **Right** to select a player, and **Up** or **Down** to change between Player, Bot, and Off.*   On the Player Select screen, press **Up** or **Down** to select a skin to use. Press **Left** or **Right** to select the team you want to be on. Press **Select** to lock in your choice. If you want to cancel your selection and pick something else, press **Cancel**. Once everyone has locked in their choices, have Player 1 press Select to advance to the Game Select menu.*   When selecting a skin, press **Up** and **Down** together to have the computer pick one for you at random. Press **Left** and **Right** together to make the computer pick a skin for you at random at the beginning of each round, even in the middle of a Tournament or Tour.*   When selecting a map, hold **Fast Map** and press **Left** or **Right** to go 10 maps at a time. When viewing maps by thumbnails, hold **Fast Scroll** and press **Up** or **Down** to quickly scroll through pages.</div>
 
@@ -408,83 +168,16 @@ The following are the default controls. All controls can be reconfigured via the
 
 <div>
 
-<table>
-
-<tbody>
-
-<tr class="borderbottom">
-
-<td>All Players</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Left</td>
-
-<td>Left (D-Pad)</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Right</td>
-
-<td>Right (D-Pad)</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Jump</td>
-
-<td>A</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Down</td>
-
-<td>Down (D-Pad)</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Turbo</td>
-
-<td>X</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Use Item</td>
-
-<td>Y</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Pause</td>
-
-<td>Start</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Exit</td>
-
-<td>Back</td>
-
-</tr>
-
-</tbody>
-
-</table>
+| Control  | Button (All Players) |
+|----------|----------------------|
+| Left     | Left (D-Pad)         |
+| Right    | Right (D-Pad)        |
+| Jump     | A                    |
+| Down     | Down (D-Pad)         |
+| Turbo    | X                    |
+| Use item | Y                    |
+| Pause    | Start                |
+| Exit     | Back                 |
 
 *   Press **Left** or **Right** to move left or right.*   Press **Jump** to jump. Hold **Down** and press **Jump** to jump down through certain platforms.*   Press **Turbo** to fire your weapon or to explode if you are a Bob-Omb. Hold **Turbo** and press **Left** or **Right** to run. While running, you can pick up shells and blue blocks that are not moving. To throw these items forward, release the Turbo key. To drop shells without throwing them, hold **Down** and release the Turbo key.*   Press **Use Item** to use whatever item is stored in your Item box. For more information on items, see their section below.*   Press **Pause** to pause the game. Press it a second time to resume.*   Press **Exit** to pause the game and bring up a dialog box. From there, you can either resume play or quit the game and return to the Game Selection menu.*   Once the game has ended and the victory fanfare has played, pressing either **Pause** or **Exit** will exit the game and return you to the Game Selection menu (or to the Scoreboard if in a Tournament or a Tour).</div>
 
@@ -492,83 +185,16 @@ The following are the default controls. All controls can be reconfigured via the
 
 <div>
 
-<table>
-
-<tbody>
-
-<tr class="borderbottom">
-
-<td>All Players</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Up</td>
-
-<td>Up (D-Pad)</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Down</td>
-
-<td>Down (D-Pad)</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Left</td>
-
-<td>Left (D-Pad)</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Right</td>
-
-<td>Right (D-Pad)</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Select</td>
-
-<td>A</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Cancel</td>
-
-<td>Back</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Random</td>
-
-<td>X</td>
-
-</tr>
-
-<tr>
-
-<td class="borderright">Fast Scroll</td>
-
-<td>Y</td>
-
-</tr>
-
-</tbody>
-
-</table>
+| Control     | Button (All Players) |
+|-------------|----------------------|
+| Left        | Left (D-Pad)         |
+| Right       | Right (D-Pad)        |
+| Up          | Up (D-Pad)           |
+| Down        | Down (D-Pad)         |
+| Select      | A                    |
+| Fast Scroll | Y                    |
+| Random      | X                    |
+| Cancel      | Back                 |
 
 *   Use **Up**, **Down**, **Left**, and **Right** to navigate through menu choices, map thumbnails, etc.*   Press **Select** to select options and confirm choices.*   Press **Cancel** to return to the previous menu.*   To change a configurable choice, highlight it and press **Select**. Use **Left** or **Right** to cycle between available options, or press **Random** to have the computer select an available option at random. Press **Select** or **Cancel** to lock in your selection. When using a slider, like the ones on the Item Selection screen, you can also hold **Fast Scroll** and press **Left** or **Right** to jump from to one end or the other.*   On the main menu, to change player settings, press **Left** or **Right** to select a player, and **Up** or **Down** to change between Player, Bot, and Off.*   On the Player Select screen, press **Up** or **Down** to select a skin to use. Press **Left** or **Right** to select the team you want to be on. Press **Select** to lock in your choice. If you want to cancel your selection and pick something else, press **Cancel**. Once everyone has locked in their choices, press Select to advance to the Game Select menu.*   When selecting a skin, press **Random** to have the computer pick one for you at random. Hold **Fast Scroll** and press **Random** to make the computer pick a skin for you at random at the beginning of each round, even in the middle of a Tournament or Tour.*   When selecting a map, hold **Fast Scroll** and press **Left** or **Right** to go 10 maps at a time. When viewing maps by thumbnails, hold **Fast Scroll** and press **Up** or **Down** to quickly scroll through pages.</div>
 
@@ -1186,7 +812,7 @@ Before putting up your maps for download, you might want to take some pictures s
 
 ### Something you might want to know
 
-Make sure you play around with the controls a bit before trying to create an important map. Just remember that pressing S saves instantly to what ever map name is in the upper right corner, overwriting whatever was there before.  
+Make sure you play around with the controls a bit before trying to create an important map. Just remember that pressing S saves instantly to whatever map name is in the upper right corner, overwriting whatever was there before.  
 
 You can also press **F1** in the editor to bring up a help screen, in case you need it.
 
