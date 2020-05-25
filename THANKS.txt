@@ -1,6 +1,6 @@
 
 ------------------------------------------------------------------------------
- THANKS TO (NEEDS TO BE UPDATED)                                    21.07.2006
+ THANKS TO (NEEDS TO BE UPDATED)                                    25.05.2020
 ------------------------------------------------------------------------------
 
 First of all we want to thank everyone who gave us feedback - this game 
@@ -39,6 +39,9 @@ Some Mac Guy        for maintaining the Macintosh builds of the game
 
 
 other thanks in no particular order:
+Thanatermesis      for patches,
+TheTechRobo        for slight README.md updates,
+hhirsch            for a complete README revamp,
 redfalcon,
 no_human,
 dschingis,
@@ -104,7 +107,7 @@ Thanks to the beta testers for their great comments and tons of suggestions
 to make the game better.
 
 
-I'd also like to thank the xbox test crew: Brian Porter, Caesar Cypher,
+I'd also like to thank the Xbox test crew: Brian Porter, Caesar Cypher,
 Brandon Stansbury, Brian Smith, Chris Schager, Alex Arnot, Jason Lumbert,
 Kevin King, and WasabiMario and his crew.  They have helped me find numerous 
 bugs and have suggested tons of features.
