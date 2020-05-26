@@ -5,11 +5,11 @@
 # Super Mario War 1.7 April Fools Edition - ReadMe
 
 2004-2015 (c) Florian Hufsky, Two52, Thanatermesis, hhirsch, and many others.  
-Last ReadMe update: 25 May 2020  
+Last ReadMe update: 26 May 2020  
 
-[Official Super Mario War Website](http://smw.72dpiarmy.com)  
-[Official Super Mario War Forums](http://forum.72dpiarmy.com)  
-[Official Fan-Made Content Website](http://smwstuff.com)
+[Official Super Mario War Website](http://web.archive.org/web/20101205042023/http://smw.72dpiarmy.com/)  
+[Official Super Mario War Forums](http://72dpiarmy.supersanctuary.net/)  
+[Official Fan-Made Content Website](http://web.archive.org/web/20080731023459/http://smwstuff.com/)
 
 ## Hey!
 
@@ -25,7 +25,7 @@ This is the (outdated) version of the manual from our last major release. I'm st
 
 The April Fools Edition of Super Mario War is based on the 1.7 release. It contains a handful of bug fixes, but more importantly, it is full of secret features. There are more than 20 features hidden within ranging from special moves for players and powerups to new items to well, you'll just have to find out.
 
-There is a contest at [http://forum.72dpiarmy.com](http://forum.72dpiarmy.com) to see who can unlock the most hidden features. The contest winner will be awarded special forum status and a badge on the splash screen for next release of SMW! So keep checking the forums for the latest codes and unlocked features forum members have found!
+There is a contest at [http://72dpiarmy.supersanctuary.net/](http://72dpiarmy.supersanctuary.net/) to see who can unlock the most hidden features. The contest winner will be awarded special forum status and a badge on the splash screen for next release of SMW! So keep checking the forums for the latest codes and unlocked features forum members have found!
 
 </div>
 
@@ -37,9 +37,9 @@ If you have problems opening the Readme Sections in IE, you should disable the a
 
 Super Mario War was developed by Florian Hufsky, Two52 and many more contributors. For a complete list of all these wonderful people, please see the file THANKS.txt which was included in this distribution. A list of changes to the game can also be found in WHATSNEW.txt, which should be in the same place.
 
-If you create a map or some other content that you would like to share, or if you would like to share your comments in general, please visit the [Super Mario War website](http://smw.72dpiarmy.com) and post a message in our [forums](http://forum.72dpiarmy.com). New content is posted all the time, and your feedback and user-content is always welcome and appreciated, so please come visit!
+If you create a map or some other content that you would like to share, or if you would like to share your comments in general, please visit the [Super Mario War website](http://web.archive.org/web/20101205042023/http://smw.72dpiarmy.com/) and post a message in our [forums](http://72dpiarmy.supersanctuary.net/). New content is posted all the time, and your feedback and user-content is always welcome and appreciated, so please come visit!
 
-Also, we have an official outlet for fan-made content like maps, music packs, skins, announcers, etc. Head on over to the [Super Mario War Stuff](http://smwstuff.com) website. It's full of the latest content released by fans of the game. Don't like how the menu looks? Try downloading a new menu pack! Tired of playing the same maps over and over? There are hundreds more available! More skins? We've got tons! Need somewhere to post content of your own? That's what it's there for! Take a moment and check it out!
+Also, we have an official outlet for fan-made content like maps, music packs, skins, announcers, etc. Head on over to the [Super Mario War Stuff](http://web.archive.org/web/20080731023459/http://smwstuff.com/) website. It's full of the latest content released by fans of the game. Don't like how the menu looks? Try downloading a new menu pack! Tired of playing the same maps over and over? There are hundreds more available! More skins? We've got tons! Need somewhere to post content of your own? That's what it's there for! Take a moment and check it out!
 
 Oh, and one other little note: for the most part, this manual was written for use with the PC version of Super Mario War. Some things are different on the Xbox version. If there is anything important that we missed documenting that specifically applies to the Xbox version, please let us know on the forums and we'll add it to this manual. Of course, if there's anything pertaining to both versions that we've missed, you should let us know about that, too!
 
