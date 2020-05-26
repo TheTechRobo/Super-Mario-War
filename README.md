@@ -4,7 +4,7 @@
 
 # Super Mario War 1.7 April Fools Edition - ReadMe
 
-2004-2015 (c) Florian Hufsky, Two52, Thanatermesis, hhirsch, and many others.  
+2004-2015 (c) Florian Hufsky, Two52, Thanatermesis, hhirsch, sezaru, and many others.  
 Last ReadMe update: 26 May 2020  
 
 [Official Super Mario War Website](http://web.archive.org/web/20101205042023/http://smw.72dpiarmy.com/)  
