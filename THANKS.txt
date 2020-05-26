@@ -1,6 +1,6 @@
 
 ------------------------------------------------------------------------------
- THANKS TO (NEEDS TO BE UPDATED)                                    25.05.2020
+ THANKS TO (NEEDS TO BE UPDATED)                                    26.05.2020
 ------------------------------------------------------------------------------
 
 First of all we want to thank everyone who gave us feedback - this game 
@@ -47,35 +47,36 @@ no_human,
 dschingis,
 matsche,
 aeroflare,
-no_shorty           for tips, finding bugs and maps
-Tymoe               for playing smw and submitting some screenshots
-Nintendo            for creating some of the coolest games ever
-David Olofson       for the very interesting conversations and tips
-scoti               for the map scot
-affeOHNEwaffe       for the map affe and the bowser skin
-mademan             for his skin and map
-mario piuk          for the new gamemodes the ai and some bugfixes
-yvoo                for many ideas, mirrors, code snippets and skins
-DNightmare, funvill and all the other guys who mirror smw
-Armen               for his leveleditor save/load map code
-vvill               for the new tilset and map backgrounds
-zio tiok            for the game mode ideas
-emedia              for putting smw on the freeware special cd
-gpmania             for printing the smw review and interview
-Donny Viszneki      for the MAC/Big Endian/Directory reader code
+no_shorty           for tips, finding bugs and maps,
+Tymoe               for playing smw and submitting some screenshots,
+Nintendo            for creating some of the coolest games ever,
+David Olofson       for the very interesting conversations and tips,
+scoti               for the map scot,
+affeOHNEwaffe       for the map affe and the bowser skin,
+mademan             for his skin and map,
+mario piuk          for the new gamemodes the ai and some bugfixes,
+yvoo                for many ideas, mirrors, code snippets and skins,
+DNightmare, funvill and all the other guys who mirror smw,
+Armen               for his leveleditor save/load map code,
+vvill               for the new tilset and map backgrounds,
+zio tiok            for the game mode ideas,
+emedia              for putting smw on the freeware special cd,
+gpmania             for printing the smw review and interview,
+Donny Viszneki      for the MAC/Big Endian/Directory reader code,
 Stephan Peijnik     for the initial fmod/sdl_mixer wrapper,
-ventuz              for his map and bug hunting
-Stefan Schury       for his ideas that helped create goomba mode
-DrJonez             for his map spawning and AI ideas
-riahc3              for his many game ideas and feature requests
-jinkies.uk          for his skins and long list of game ideas
-devguy              for extracting the halo announcer sounds
-Quinn Storm         for setting up the original CVS server and helping out
-                    with the linux source
-Alex Brown          for his configurable controls code
-Wasabimario         for creating all the tours that were bundled with 1.7
-nes6502             for his help with the bilinear filters
-XPort               for his help with SDLx
+ventuz              for his map and bug hunting,
+Stefan Schury       for his ideas that helped create goomba mode,
+DrJonez             for his map spawning and AI ideas,
+riahc3              for his many game ideas and feature requests,
+jinkies.uk          for his skins and long list of game ideas,
+devguy              for extracting the halo announcer sounds,
+Quinn Storm         for setting up the original CVS server and helping out,
+                    with the linux source,
+Alex Brown          for his configurable controls code,
+Wasabimario         for creating all the tours that were bundled with 1.7,
+nes6502             for his help with the bilinear filters,
+XPort               for his help with SDLx,
+sezaru              for their bugfixes
 
 
 We would also like to thank everyone who participated in the feature polls
