@@ -1,3 +1,8 @@
+======NOTE========================
+This file is EXTREMELY OUTDATED and hasn't been updated since 2008.  
+Please use the new README_DRAFT.md. It is being actively updated by TheTechRobo.
+======END OF NOTE=================
+
 Hey, 'sup.  This is an early draft.
 (Also, the final manual will not be plain text.)
 Questions about anything missing?  Ask on the messageboards.
