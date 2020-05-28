@@ -11,7 +11,109 @@ Useful links:
 
 [getting started will go here]
 
-[controls will go here]
+## [Controls [click to view]](javascript:toggleIt('c'))
+
+<div id="c" class="leftbar" style="display: none;">
+
+### [PC - Keyboard [click to view]](javascript:toggleIt('pck'))
+
+<!--Thanks to https://www.tablesgenerator.com/markdown_tables for generating this table, I was too lazy to figure it out :p-->
+
+<div id="pck" style="display: none;">
+
+The following are the default controls. Controls can be configured within the Controls menu, accessible from the main menu. From there, you can also switch your input devices to joysticks (see the next section for information on joystick controls).
+
+#### Game controls
+
+<div>
+
+| Control  | Player 1    | Player 2 | Player 3 | Player 4           |
+|----------|-------------|----------|----------|--------------------|
+| Left     | Left arrow  | A        | G        | L                  |
+| Right    | Right arrow | D        | J        | ' (apostrophe)     |
+| Jump     | Up arrow    | W        | Y        | P                  |
+| Down     | Down arrow  | S        | H        | ; (semicolon)      |
+| Turbo    | Right Ctrl  | E        | U        | [ (square bracket) |
+| Use Item | Right Shift | Q        | T        | O                  |
+| Pause    | Enter       | n/a      | n/a      | n/a                |
+| Exit     | esc         | n/a      | n/a      | n/a                |
+
+*   Press **Left** or **Right** to move left or right.*   Press **Jump** to jump. Press **Down** to jump down through certain platforms.*   Press **Turbo** to fire your weapon or to explode if you are a Bob-Omb. Hold **Turbo** and press **Left** or **Right** to run. While running, you can pick up shells and blue blocks that are not moving. To throw these items forward, release the Turbo key. To drop shells without throwing them, hold **Down** and release the Turbo key.*   Press **Use Item** to use whatever item is stored in your Item box. For more information on items, see their section below.*   Press **Pause** to pause the game. Press it a second time to resume.*   Press **Exit** to pause the game and bring up a dialog box. From there, you can either resume play or quit the game and return to the Game Selection menu.*   Once the game has ended and the victory fanfare has played, pressing either **Pause** or **Exit** will exit the game and return you to the Game Selection menu (or to the Scoreboard if in a Tournament or a Tour).</div>
+
+#### Menu controls
+
+<div>
+
+| Control     | Player 1    | Player 2 | Player 3 | Player 4           |
+|-------------|-------------|----------|----------|--------------------|
+| Left        | Left arrow  | A        | G        | L                  |
+| Right       | Right arrow | D        | J        | ' (apostrophe)     |
+| Up          | Up arrow    | W        | Y        | P                  |
+| Down        | Down arrow  | S        | H        | : (colon)          |
+| Select      | Enter       | E        | U        | [ (square bracket) |
+| Cancel      | esc         | Q        | T        | O                  |
+| Random      | Spacebar    | n/a      | n/a      | n/a                |
+| Fast Scroll | Left Shift  | n/a      | n/a      | n/a                |
+
+*   Only Player 1's menu controls may be used in most menus.*   Use **Up**, **Down**, **Left**, and **Right** to navigate through menu choices, map thumbnails, etc.*   Press **Select** to select options and confirm choices.*   Press **Cancel** to return to the previous menu.*   To change a configurable choice, highlight it and press **Select**. Use **Left** or **Right** to cycle between available options, or press **Random** to have the computer select an available option at random. Press **Select** or **Cancel** to lock in your selection. When using a slider, like the ones on the Item Selection screen, you can also hold **Fast Scroll** and press **Left** or **Right** to jump from to one end or the other.*   On the main menu, to change player settings, press **Left** or **Right** to select a player, and **Up** or **Down** to change between Player, Bot, and Off.*   On the Player Select screen, press **Up** or **Down** to select a skin to use. Press **Left** or **Right** to select the team you want to be on. Press **Select** to lock in your choice. If you want to cancel your selection and pick something else, press **Cancel**. Once everyone has locked in their choices, have Player 1 press Select to advance to the Game Select menu.*   When selecting a skin, press **Up** and **Down** together to have the computer pick one for you at random. Press **Left** and **Right** together to make the computer pick a skin for you at random at the beginning of each round, even in the middle of a Tournament or Tour.*   When selecting a map, hold **Fast Map** and press **Left** or **Right** to go 10 maps at a time. When viewing maps by thumbnails, hold **Fast Scroll** and press **Up** or **Down** to quickly scroll through pages.</div>
+
+</div>
+
+### [PC - Joystick [click to view]](javascript:toggleIt('pcj'))
+
+<div id="pcj" style="display: none;">
+
+When using joysticks, it is important to note that there are a couple of differences in some basic controls. It is also important to note that the default settings for inputs are, most likely, _not_ the ones you want, since every joystick internally numbers and names its buttons differently (for example, on Joystick A, "button 1" might be the A button, whereas on Joystick B it's the left trigger). So when you set the game up to use a joystick, be sure to configure the buttons to something you like. (For this reason, the default controls will not be listed here.)
+
+The following are the changes to the controls when using a joystick. For information on controls not listed here, see the Keyboard section.
+
+*   In-game, to jump down through platforms, you have to hold **Down** and press **Jump**, instead of just pressing Down.*   All players with joysticks have **Random** and **Fast Map** menu controls. In addition, all players with joysticks have control in menus, not just Player 1.*   When selecting skins, to have the game select one at random, you must press **Random** instead of Up and Down together. Similarly, instead of pressing Left and Right toegether to get a random skin for each match, you have to hold **Fast Map** and press **Random**.</div>
+
+### [Xbox [click to view]](javascript:toggleIt('xbox'))
+
+<div id="xbox" style="display: none;">
+
+When playing on the Xbox, each player is "locked in" to their joystick - in other words, Player 1 will always use the joystick plugged into the first port, etc.
+
+The following are the default controls. All controls can be reconfigured via the Controls menu, accessible from the main menu.
+
+#### Game controls
+
+<div>
+
+| Control  | Button (All Players) |
+|----------|----------------------|
+| Left     | Left (D-Pad)         |
+| Right    | Right (D-Pad)        |
+| Jump     | A                    |
+| Down     | Down (D-Pad)         |
+| Turbo    | X                    |
+| Use item | Y                    |
+| Pause    | Start                |
+| Exit     | Back                 |
+
+*   Press **Left** or **Right** to move left or right.*   Press **Jump** to jump. Hold **Down** and press **Jump** to jump down through certain platforms.*   Press **Turbo** to fire your weapon or to explode if you are a Bob-Omb. Hold **Turbo** and press **Left** or **Right** to run. While running, you can pick up shells and blue blocks that are not moving. To throw these items forward, release the Turbo key. To drop shells without throwing them, hold **Down** and release the Turbo key.*   Press **Use Item** to use whatever item is stored in your Item box. For more information on items, see their section below.*   Press **Pause** to pause the game. Press it a second time to resume.*   Press **Exit** to pause the game and bring up a dialog box. From there, you can either resume play or quit the game and return to the Game Selection menu.*   Once the game has ended and the victory fanfare has played, pressing either **Pause** or **Exit** will exit the game and return you to the Game Selection menu (or to the Scoreboard if in a Tournament or a Tour).</div>
+
+#### Menu controls
+
+<div>
+
+| Control     | Button (All Players) |
+|-------------|----------------------|
+| Left        | Left (D-Pad)         |
+| Right       | Right (D-Pad)        |
+| Up          | Up (D-Pad)           |
+| Down        | Down (D-Pad)         |
+| Select      | A                    |
+| Fast Scroll | Y                    |
+| Random      | X                    |
+| Cancel      | Back                 |
+
+*   Use **Up**, **Down**, **Left**, and **Right** to navigate through menu choices, map thumbnails, etc.*   Press **Select** to select options and confirm choices.*   Press **Cancel** to return to the previous menu.*   To change a configurable choice, highlight it and press **Select**. Use **Left** or **Right** to cycle between available options, or press **Random** to have the computer select an available option at random. Press **Select** or **Cancel** to lock in your selection. When using a slider, like the ones on the Item Selection screen, you can also hold **Fast Scroll** and press **Left** or **Right** to jump from to one end or the other.*   On the main menu, to change player settings, press **Left** or **Right** to select a player, and **Up** or **Down** to change between Player, Bot, and Off.*   On the Player Select screen, press **Up** or **Down** to select a skin to use. Press **Left** or **Right** to select the team you want to be on. Press **Select** to lock in your choice. If you want to cancel your selection and pick something else, press **Cancel**. Once everyone has locked in their choices, press Select to advance to the Game Select menu.*   When selecting a skin, press **Random** to have the computer pick one for you at random. Hold **Fast Scroll** and press **Random** to make the computer pick a skin for you at random at the beginning of each round, even in the middle of a Tournament or Tour.*   When selecting a map, hold **Fast Scroll** and press **Left** or **Right** to go 10 maps at a time. When viewing maps by thumbnails, hold **Fast Scroll** and press **Up** or **Down** to quickly scroll through pages.</div>
+
+</div>
+
+</div>
 
 # Gamemodes
 
