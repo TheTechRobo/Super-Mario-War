@@ -1,12 +1,10 @@
-Music Packs ReadMe
--------------------------
+# Music Packs ReadMe
 The purpose of this file is to describe how music packs work and help
 you create your own.  It contains steps to set up your own music pack
 and describes the 1.7.0.1 music system.
 
 
-System
-------
+## System
 Each music pack requires a named directory in the music/ directory.
 Name this directory how you want it to appear in the game.  In this
 directory is a required file named "Music.txt".  In this file you will
@@ -37,8 +35,10 @@ category's playlist twice.
 For example, if I have level1.ogg in the Land subdirectory and I also
 have:
 
+```
 [Land]
 Land/level1.ogg
+```
 
 in Music.txt, then level1.ogg will be added twice to the Land music
 category, once for the reference in Music.txt and once for being in the
@@ -56,26 +56,25 @@ Or you can have a mixture of manually and automatically added tracks.
 It is all up to you.
 
 
-Track Weighting
----------------
-
+## Track Weighting
 You can also affect the weighting of how much a song is played in a
 category over the other songs in that category.  Each time a reference
 appears for that song, it has that much more chance it will be played.
 
 Example:
 
+```
 [Land]
 Land/level1.ogg
 Land/level1.ogg
 Land/level2.ogg
+```
 
 When you pick a map that uses the Land category music, level1.ogg will
 play twice as often as level2.ogg.
 
 
-Default Music
--------------
+## Default Music
 It is required that you specify music for the Land, Underground,
 Underwater and Castle categories in some form (either in the file or
 have tracks in the category subdirectories).  If not, then the menu
