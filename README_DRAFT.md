@@ -1,8 +1,13 @@
+# Super Mario War (Draft README)
 Hey, 'sup.  This is an early draft.  
-Questions about anything missing?  Ask on the messageboards.
-http://72dpiarmy.supersanctuary.net/
-
-[intro will go here]
+Anything missing? Add it with a pull request!  
+Useful links:  
+- [Official SMW website](http://smw.supersanctuary.net/)
+  - The official website
+- [Official SMW forum](http://72dpiarmy.supersanctuary.net/)
+  - Ask questions, post things about the game, and get info!
+- [SMWStuff (ReLoaded)](http://smwstuff.net/)
+  - This is a replacement version for the site, [smwstuff.com <sub>(dead link)</sub>](http://smwstuff.com)
 
 [getting started will go here]
 
