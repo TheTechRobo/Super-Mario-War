@@ -71,7 +71,7 @@ Done  Pri  Description
 [X]        Reoranize map structure.  Read in each tile and all date with that tile.  Should be organized backgroundID,layer1,2,3,4,interactionblock,warp,layer1,2,3,4,inter... 
 [X]        Write and read functions to do both little and big endian (cleans up map saving and loading code quite a bit, also options.bin if needed)
 [ ]        timebased movement or hardwired fps or auto frameskipping or like in "rubber pig" by david olofson
-[X]  High  Add Mario skins where each sprite has 6 (3 for upper and 3 for lower... or more) mapped colors and the colors of the player are mapped onto that sprite at load time.  This way we don’t have to create 4 different sprites for each player!  Maybe make different skins unlockable (by winning tournaments) or just configurable on main menu.  Add all skins from fan sources + old classic blue overalls.
+[X]  High  Add Mario skins where each sprite has 6 (3 for upper and 3 for lower... or more) mapped colors and the colors of the player are mapped onto that sprite at load time.  This way we donÂ’t have to create 4 different sprites for each player!  Maybe make different skins unlockable (by winning tournaments) or just configurable on main menu.  Add all skins from fan sources + old classic blue overalls.
 [X]  High  Update Readme with new http://smw.72dpiarmy.com/ site and combine readme from all previous releases so credit is given to all who helped develop the game
 [X]        Optimize slow areas like tournament winner screen by predrawing everything to 1 layer
 [X]        Jail mode?  Stomp players and they spawn slowed down and take 20 seconds to unfreeze.  Can be freed by team players.
@@ -245,7 +245,7 @@ Done  Pri  Description
 [ ]        Customized tilesets for each map (with corresponding collision options for each tile)
 [X]        Customizable countdown timer before players respawn after death (could help calm down 4-player chaos a bit)
 [ ]        More music: http://cc.usu.edu/~jerr/smwremix_sample.mp3
-[X]        Change references of cristomarquez to "Fernando Márquez"
+[X]        Change references of cristomarquez to "Fernando MÃ¡rquez"
 [ ]        Treat lava differently than it is now.  Powerups and items should be destroyed when hitting lava/spikes.
 [ ]        Level Editor: Add an undo button
 [X]        1up should add a constant score to domination, chicken, owned and tag.  When goal is large like 1000, you get 100 score!
@@ -349,6 +349,8 @@ Done  Pri  Description
 [ ]        Add multiple stars to star mode.  It would be like shine except players - 1 stars and when time goes off, if you're not holding a star, you die.  Like musical chairs.
 [ ]        Have "All Music" option for playlist field.  This would combine all music packs into a large list and play select from all music.
 [ ]        Configuration for number of throwable weapons on screen at once (like 1 or 3 fireballs at a time, etc)
+[ ] High   Change pitch, colour, etc of copyrighted material so we don't get sued
+[ ] Low    Make multiple resolutions available
 
 
 Considering for 1.7:
@@ -804,7 +806,7 @@ Thinking about 1.8...
 [X] The game will crash if you go to a map with a view block with no powerups on.
 [X] If the bonus wheel is set to every turn, and you win a world, the tournament win song will play, but it will skip the results screen. 
 [X] Mode chosen start locations like flag bases, race goals, etc. set in level editor
-[X] Jail mode updates: 1. "Owned Jail": Because players get out of Jail when (#players – (#players in jail)=1), in 2P there is no Jail, in 3P only one person can be in jail at a time and 4P only two people can be in jail at once. As soon as the last free player is jailed, the player who jailed him gets a bonus and everyone is freed.  To make it more difficult to get out of jail and to reward the player who does more work to jail all other players, I suggest that the jails be color coded (like owned). And when someone does in fact jail everyone, they get a heftier bonus than for just being the last one to jail the group.  In 2P, the other player is jailed with a colored jail but no bonus points are awarded for this.  They stay jailed for x seconds and are released.  2. "Free for all Jail" : This takes away the whole idea of bonuses for jail. When you are jailed, you remain so until a) you stomp on another player (this includes stomping on other jailed players) or b) you are able to run out the timer for your  jail. The reward and strategy for someone who is not in jail is to try to keep others in jail by stomping/killing them consecutive times to prevent them from being freed. Basically, the idea being that keeping someone in jail is reward enough and you don't need an extra bonus for jailing the group. So, even in 2P, you would have a jail. 
+[X] Jail mode updates: 1. "Owned Jail": Because players get out of Jail when (#players Â– (#players in jail)=1), in 2P there is no Jail, in 3P only one person can be in jail at a time and 4P only two people can be in jail at once. As soon as the last free player is jailed, the player who jailed him gets a bonus and everyone is freed.  To make it more difficult to get out of jail and to reward the player who does more work to jail all other players, I suggest that the jails be color coded (like owned). And when someone does in fact jail everyone, they get a heftier bonus than for just being the last one to jail the group.  In 2P, the other player is jailed with a colored jail but no bonus points are awarded for this.  They stay jailed for x seconds and are released.  2. "Free for all Jail" : This takes away the whole idea of bonuses for jail. When you are jailed, you remain so until a) you stomp on another player (this includes stomping on other jailed players) or b) you are able to run out the timer for your  jail. The reward and strategy for someone who is not in jail is to try to keep others in jail by stomping/killing them consecutive times to prevent them from being freed. Basically, the idea being that keeping someone in jail is reward enough and you don't need an extra bonus for jailing the group. So, even in 2P, you would have a jail. 
 [X] New retro colored jail gfx. 
 [X] New Eyecandy! 
 [X] Trying to insert stages for the bonus world, I've found out it appears to have a stage limit of 20. What's with that?
