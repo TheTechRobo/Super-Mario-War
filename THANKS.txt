@@ -1,6 +1,6 @@
 
 ------------------------------------------------------------------------------
- THANKS TO (NEEDS TO BE UPDATED)                                    26.05.2020
+ THANKS TO (NEEDS TO BE UPDATED)                                    28.05.2020
 ------------------------------------------------------------------------------
 
 First of all we want to thank everyone who gave us feedback - this game 
@@ -37,11 +37,16 @@ npodges             for creating the official content site www.smwstuff.com
 
 Some Mac Guy        for maintaining the Macintosh builds of the game
 
+Thanatermesis       for importing patches and fixing things
+
+TheTechRobo         for many README and draft README changes
+
+hhirsch             for the original README revamp (html to Markdown)
+
+Nintendo            for creating some of the coolest games ever
+
 
 other thanks in no particular order:
-Thanatermesis      for patches,
-TheTechRobo        for slight README.md updates,
-hhirsch            for a complete README revamp,
 redfalcon,
 no_human,
 dschingis,
@@ -49,7 +54,6 @@ matsche,
 aeroflare,
 no_shorty           for tips, finding bugs and maps,
 Tymoe               for playing smw and submitting some screenshots,
-Nintendo            for creating some of the coolest games ever,
 David Olofson       for the very interesting conversations and tips,
 scoti               for the map scot,
 affeOHNEwaffe       for the map affe and the bowser skin,
