@@ -38,7 +38,14 @@ The following are the default controls. Controls can be configured within the Co
 | Pause    | Enter       | n/a      | n/a      | n/a                |
 | Exit     | esc         | n/a      | n/a      | n/a                |
 
-*   Press **Left** or **Right** to move left or right.*   Press **Jump** to jump. Press **Down** to jump down through certain platforms.*   Press **Turbo** to fire your weapon or to explode if you are a Bob-Omb. Hold **Turbo** and press **Left** or **Right** to run. While running, you can pick up shells and blue blocks that are not moving. To throw these items forward, release the Turbo key. To drop shells without throwing them, hold **Down** and release the Turbo key.*   Press **Use Item** to use whatever item is stored in your Item box. For more information on items, see their section below.*   Press **Pause** to pause the game. Press it a second time to resume.*   Press **Exit** to pause the game and bring up a dialog box. From there, you can either resume play or quit the game and return to the Game Selection menu.*   Once the game has ended and the victory fanfare has played, pressing either **Pause** or **Exit** will exit the game and return you to the Game Selection menu (or to the Scoreboard if in a Tournament or a Tour).</div>
+* Press **Left** or **Right** to move left or right.
+* Press **Jump** to jump.
+* Press **Down** to jump down through certain platforms.
+* Press **Turbo** to fire your weapon or to explode if you are a Bob-Omb. Hold **Turbo** and press **Left** or **Right** to run. While running, you can pick up shells and blue blocks that are not moving. To throw these items forward, release the Turbo key. To drop shells without throwing them, hold **Down** and release the Turbo key.
+* Press **Use Item** to use whatever item is stored in your Item box. For more information on items, see their section below.
+* Press **Pause** to pause the game. Press it a second time to resume.
+* Press **Exit** to pause the game and bring up a dialog box. From there, you can either resume play or quit the game and return to the Game Selection menu.
+* Once the game has ended and the victory fanfare has played, pressing either **Pause** or **Exit** will exit the game and return you to the Game Selection menu (or to the Scoreboard if in a Tournament or a Tour).</div>
 
 #### Menu controls
 
