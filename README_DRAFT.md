@@ -1,6 +1,6 @@
 # Super Mario War (Draft README)
 Hey, 'sup.  This is an early draft.  
-Anything missing? Add it with a pull request!  
+Anything missing? Add it to the [wiki page](https://github.com/thetechrobo/super-mario-war/wiki/README-draft-listadd).  
 Useful links:  
 - [Official SMW website](http://smw.supersanctuary.net/)
   - The official website
@@ -124,96 +124,88 @@ Base 1UP value: +1 Kill
 - Enemy Sliders:
   - These determine the relative probabilities of each enemy appearing.
 
----
-
-Yoshi's Eggs
+## Yoshi's Eggs
 
 In this mode, Yoshis and Eggs will appear on the map.  You have to grab the eggs and take them to the matching-colored Yoshi to get points.  If, in a last-ditch effort, you throw the egg, and it makes it to Yoshi, you'll still get the point.  Also, dying doesn't affect your score adversely.
 
-Basic Parameter: Eggs
+### Basic Parameter: Eggs
 Default is 20.  Can be set to anything between 5 and 100, in fives.
 Base 1UP value: +1 Egg
 
-Extra options:
-Egg Sliders:
-These determine the relative probabilities of each color of egg appearing.
-Yoshi Sliders:
-Same here, only for the Yoshis instead.  Be sure to set the right colors, or else you won't be able to score!
-Explosion Timer: Off, or 3, 5, 8, 10, 15, or 20 seconds
-When set to Off, eggs will behave normally.  If nobody grabs one for a while, it will move to another spot.
-When set to anything else, eggs will explode if they are left on the screen for too long!  Don't pick one up if it's about to explode!
+### Extra options:
+- Egg Sliders:
+  - These determine the relative probabilities of each color of egg appearing.
+- Yoshi Sliders:
+  - Same here, only for the Yoshis instead.  Be sure to set the right colors, or else you won't be able to score!
+- Explosion Timer: Off, or one of the following:  3, 5, 8, 10, 15, and 20 seconds
+  - When set to Off, eggs will behave normally.  If nobody grabs one for a while, it will move to another spot.
+  - When set to anything else, eggs will explode if they are left on the screen for too long!  Don't pick one up if it's about to explode!
 
----
-
-Capture The Flag
+## Capture The Flag
 
 In this mode, each player has a base with a flag stuck to it.  The goal is to snatch the flags from the other players' bases and bring them back to yours.  If you toss or carry the flag to your base, you get a point.  Dying has no effect on your score.  And don't forget to return your own flag to your base if you recover it!
 
-Basic Parameter: Flags
+### Basic Parameter: Flags
 Default is 20.  Can be set to anything between 5 and 100, in fives.
 Base 1UP value: +1 Flag
 
-Extra options:
-Speed Slider:
-When set all the way to the left, the flag bases will remain stationary.  However, if you don't bring any flags to your base for a while, it will relocate itself in an attempt to become more accessible.
-When set to any other option, the flag bases will roam randomly around the map.  The farther to the right you set the slider, the faster they will move.
-Touch Return: Off or On
-When set to Off, you must carry your flag back to base to return it.
-When set to On, if you just touch your own flag, it will warp back to base.
-Point Move: Off or On
-When set to Off, nothing special happens when you bring a flag back to base.
-When set to On, your base will relocate itself to a random position when you score.
-Auto Return: None, or between 5 and 60 seconds, in fives
-When set to None, your flag will stay put if someone drops it.
-When set to anything else, it will warp back to base automatically if it stays in one place for too long.
-Need Home: Off or On
-When set to Off, you can score at any time.
-When set to On, your own flag needs to be home before you can score!
-Center Flag: Off or On
-When set to Off, the rules are as stated in the description above.
-When set to On, the rules change a bit.  Now, instead of everyone having their own flag, there is one flashing flag somewhere on the map.  Bring it back to your base to score a point!  (Also, when set to On, the game ignores the Need Home setting.  So don't worry about that.)
+### Extra options:
+- Speed Slider:
+  - When set all the way to the left, the flag bases will remain stationary.  However, if you don't bring any flags to your base for a while, it will relocate itself in an attempt to become more accessible.
+  - When set to any other option, the flag bases will roam randomly around the map.  The farther to the right you set the slider, the faster they will move.
+- Touch Return: Off or On
+  - When set to Off, you must carry your flag back to base to return it.
+  - When set to On, if you just touch your own flag, it will warp back to base.
+- Point Move: Off or On
+  - When set to Off, nothing special happens when you bring a flag back to base.
+  - When set to On, your base will relocate itself to a random position when you score.
+- Auto Return: None, or between 5 and 60 seconds, in fives
+  - When set to None, your flag will stay put if someone drops it.
+  - When set to anything else, it will warp back to base automatically if it stays in one place for too long.
+- Need Home: Off or On
+  - When set to Off, you can score at any time.
+  - When set to On, your own flag needs to be home before you can score!
+- Center Flag: Off or On
+  - When set to Off, the rules are as stated in the description above.
+  - When set to On, the rules change a bit.  Now, instead of everyone having their own flag, there is one flashing flag somewhere on the map.  Bring it back to your base to score a point!  (Also, when set to On, the game ignores the Need Home setting.  So don't worry about that.)
 
----
-
-Chicken
+## Chicken
 
 In this mode, the first person to make a kill becomes the Chicken.  The Chicken gains points at a steady rate, but they also lose the ability to run.  If you kill the Chicken, you become the new Chicken.  The first person to make it to the goal score wins!
 
 Two more things you should know:
-1) If the Chicken kills someone, they get a 5-point bonus.
-2) If the Chicken accidentally kills themself, they lose Chicken status and whoever makes the next kill becomes Chicken.
+1. If the Chicken kills someone, they get a 5-point bonus.
+2. If the Chicken accidentally kills themself, they lose Chicken status and whoever makes the next kill becomes Chicken.
 
-Basic Parameter: Points
+### Basic Parameter: Points
 Default is 200.  Can be set to anything between 50 and 1000, in 50s.
 Base 1UP value: +10 Points
 
-Extra options:
-Show Target: Off or On
-When set to Off, the Chicken will simply be replaced with a chicken graphic.
-When set to On, they will be additionally pointed out with a big crosshair.
-Chicken Glide: Off or On
-When set to Off, the Chicken has no additional powers.
-When set to On, the Chicken has the ability to glide slowly, as if they had a Leaf item.
+### Extra options:
+- Show Target: Off or On
+  - When set to Off, the Chicken will simply be replaced with a chicken graphic.
+  - When set to On, they will be additionally pointed out with a big crosshair.
+- Chicken Glide: Off or On
+  - When set to Off, the Chicken has no additional powers.
+  - When set to On, the Chicken has the ability to glide slowly, as if they had a Leaf item.
 
----
-
-Tag
+## Tag
 
 This is basically the opposite of Chicken mode.  In this mode, everybody starts with a set number of points.  At the start of the game, one player will be randomly picked to be "It," and will constantly lose points.  If you're "It," it's your job to tag the other players to make them "It"!  When "It" runs out of points, they are eliminated from the game, and the person with the highest score is then selected to be "It" (if there's a tie, the game picks randomly).  Last one standing wins.
 
-But wait!  There's more:
-1) If you're "It," you get a speed boost to help you catch the other players!
-2) "It" can "distance tag" by killing another player with a weapon or item.
-3) If you die in any way, whether you're "It" or not, you lose 5 points.
+But wait!  There's more:  
+1. If you're "It," you get a speed boost to help you catch the other players!
+2. "It" can "distance tag" by killing another player with a weapon or item.
+3. If you die in any way, whether you're "It" or not, you lose 5 points.
 
-Basic Parameter: Points
+### Basic Parameter: Points
 Default is 200.  Can be set to anything between 50 and 1000, in 50s.
 Base 1UP value: +10 Points
 
-Extra options:
-Touch Tag: Off or On
-When set to Off, you must kill another player to make them "It."
-When set to On, you can just touch them to do the job.
+### Extra options:
+- Touch Tag: Off or On
+  - When set to Off, you must kill another player to make them "It."
+  - When set to On, you can just touch them to do the job.
 
 ---
 
