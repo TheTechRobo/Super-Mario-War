@@ -1,133 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
- <title>Super Mario War Readme</title>
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <style type="text/css" media="all">
- body, p, form, input, select, label, textarea, li, div, td{
-   font:  11px Tahoma, Arial, Helvetica, sans-serif;
- }
+![splash](gfx/docs/splash.png)
+# Super Mario War 1.8 - ReadMe
  
- pre {
-   font-size: 11px;
- }
- 
- div {
-    margin-left: 15px;
- }
- 
- div.leftbar {
-   margin-left: 15px;
-   padding-left: 6px;
-   border-left: 1px solid grey;
- }
- 
- div#content {
-   width: 600px;
-   margin: 0;
-   padding: 0;
-   border: none;
- }
- 
- table {
-   border-collapse: collapse;
- }
- 
- table tr td {
-   padding: 2px 5px 2px 5px;
- }
- 
- td.borderright {
-   border-right: 1px solid black;
- }
- 
- tr.borderbottom td {
-   border-bottom: 1px solid black;
- }
- 
- 
- h1, h2, h3, h4 {
-   margin-top: 12px;
-   margin-bottom: 4px;
- }
- 
- h1 a, h2 a, h3 a, h4 a {
-   text-decoration: none;
- }
- 
- h1 {
-   font-size: 22px;
- }
- 
- h2 {
-   font-size: 17px;
- }
- 
- h3 {
-   font-size: 13px;
- }
- 
- h4 {
-   font-size: 11px;
-   
- }
- 
- 
- a:visited {
-   color: blue;
- }
- 
- p {
-   margin-top: 0;
-   margin-bottom: 10px;
- }
- 
- dd, dl, dt {
-   margin-top: 0;
- }
- 
- </style>
- 
- <script type="text/javascript">
- function toggleVisible(elementname, returnit){
- 	if(document.getElementById(elementname).style.display == 'block'){
- 		document.getElementById(elementname).style.display = 'none';
- 		if(returnit != undefined) return 'block';
- 	}
- 	else {
- 		document.getElementById(elementname).style.display = 'block';
- 		if(returnit != undefined) return 'visible';
- 	}
- }
- 
- function toggleIt(elementname){
-    var isvisible = toggleVisible(elementname, true);
-    t = document.getElementById(elementname + '_').innerHTML;
-    
-    var t1 = " [click to view]";
-    var t2 = " [click to hide]";
-    if(isvisible == 'visible'){
-      document.getElementById(elementname + '_').innerHTML = t.replace(t1, t2);
-    }
-    else{
-      document.getElementById(elementname + '_').innerHTML = t.replace(t2, t1);
-    }
- }
- </script>
-</head>
+ 2004-2015 (c) Florian Hufsky, Two52, Thanatermesis, and many others.
+ Last ReadMe update: 30 May 2020<br/><br/>
+[Official SMW website](http://smw.supersanctuary.net)  
+[SMW forum](http://72dpiarmy.supersanctuary.net)
 
-<body>
-
-<img src="gfx/docs/splash.png">
-<div id="content">
- <h1>Super Mario War 1.8 - ReadMe</h1>
- 
- <p>2004-2008 (c) Florian Hufsky, Two52, and many others.<br/>
- Last ReadMe update: 7 May 2008<br/><br/>
- <a href="http://smw.72dpiarmy.com">Official Super Mario War Website</a><br/>
- <a href="http://forum.72dpiarmy.com">Official Super Mario War Forums</a><br/>
-
- <a href="http://smwstuff.com">Official Fan-Made Content Website</a></p>
+ <a href="http://smwstuff.net">Official Fan-Made Content Website</a></p>
  
 <h2>A quick note</h2>
  <div>
@@ -142,27 +21,20 @@
 	Super Mario War was developed by Florian Hufsky, Two52 and many more contributors. For
 	a complete list of all these wonderful people, please see the file THANKS.txt which was included 
 	in this distribution.  A list of changes to the game can also be found in WHATSNEW.txt, which
-	should be in the same place.
-	</p>
+should be in the same place.
 
-	<p>
-	If you create a map or some other content that you would like to share, or if you would like to share your 
-	comments in general, please visit the <a href="http://smw.72dpiarmy.com">Super Mario War website</a> 
-	and post a message in our <a href="http://forum.72dpiarmy.com">forums</a>.  New content is posted all the 
-	time, and your feedback and user-content is always welcome and appreciated, so please come visit!
-	</p>
-
-	<p>
-
-	Also, we have an official outlet for fan-made content like maps, music packs, skins, announcers,
-	etc.  Head on over to the <a href="http://smwstuff.com">Super Mario War Stuff</a> website.  It's full
-	of the latest content released by fans of the game.  Don't like how the menu looks?  Try downloading
-        a new menu pack!  Tired of playing the same maps over and over?  There are hundreds more available!
+If you create a map or some other content that you would like to share, or if you would like to share your 
+comments in general, post a message in our <a href="http://72dpiarmy.supersanctuary.net">forums</a>.  New content is posted all the 
+time, and your feedback and user-content is always welcome and appreciated, so please come visit!
+Also, we have an official outlet for fan-made content like maps, music packs, skins, announcers,
+etc.  Head on over to the <a href="http://smwstuff.net">Super Mario War Stuff</a> website.  It's full
+of the latest content released by fans of the game.  Don't like how the menu looks?  Try downloading
+a new menu pack!  Tired of playing the same maps over and over?  There are hundreds more available!
 	More skins?  We've got tons!  Need somewhere to post content of your own?  That's what it's there for!
 	Take a moment and check it out!
 	</p>
 
-	<p>
+	
 	Oh, and one other little note: for the most part, this manual was written for use with the PC version
 	of Super Mario War.  Some things are different on the Xbox version.  If there is anything
 	important that we missed documenting that specifically applies to the Xbox version, please let us
@@ -175,9 +47,9 @@
 <h2 id="gs_"><a href="javascript:toggleIt('gs')">Getting Started [click to view]</a></h2>
 
  <div id="gs" class="leftbar" style="display: none;">
-	<p><img src="gfx/docs/ss01.png"></p>
+	<img src="gfx/docs/ss01.png"></p>
 
-	<p>
+	
 	Super Mario War is a game for up to four players with many different modes of play.  The basic
 	goal of the game is to be the last player standing, and to accomplish this goal you must jump
 	on your opponents' heads to kill them.  There are many Mario-themed items you can use to help
@@ -188,14 +60,14 @@
 	other custom content to use (or download others' to use), too!
 	</p>
 
-	<p>
+	
 	This section of the manual explains how to navigate the game's menus, and contains a short
 	explanation of Tournaments and Tours as well.  Please note that all of the controls listed in
 	this section are defaults, and can be reconfigured if you like.
 	</p>
 
 	<h3>The Main Menu</h3>
-	<p><img src="gfx/docs/ss02.png"></p>
+	<img src="gfx/docs/ss02.png"></p>
 
 	<p>
 	From this menu, you can access everything else in the game.
