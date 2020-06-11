@@ -112,87 +112,76 @@ From this menu, you can select your game mode, select the map you wish to use, c
 	view other pages, scroll up or down off the screen, or hold Left Shift and press Up or Down.
 	</p>
 
-<h3>Playing the Game</h3>
-<p><img src="gfx/docs/ss06.png"> <img src="gfx/docs/ss07.png"></p>
+### Playing the Game
+![image](gfx/docs/ss06.png) ![image](gfx/docs/ss07.png)
 
 The main goal of the game is to stomp on your opponents' heads to kill them, although depending
-	on the map you're playing on, you may be able to kill them in other ways, such as with items.
-	There may also be additional rules or a different way of winning, depending on the mode you are
-	playing; for information on these, you can check the Game Modes section of this manual.  For
-	information on the controls you'll be using to play the game, check out the section on Controls,
-	below.  And to learn about the different items and map elements you can use to turn the tables on
-	your opponents, take a look at the Items and Special Blocks sections, towards the middle of the
-	manual.
-	</p>
+on the map you're playing on, you may be able to kill them in other ways, such as with items.
+There may also be additional rules or a different way of winning, depending on the mode you are
+playing; for information on these, you can check the Game Modes section of this manual.  For
+information on the controls you'll be using to play the game, check out the section on Controls,
+below.  And to learn about the different items and map elements you can use to turn the tables on
+your opponents, take a look at the Items and Special Blocks sections, towards the middle of the
+manual.
 
-	<h3>Tournaments, Tours, and World Maps</h3>
+### Tournaments, Tours, and World Maps
 
-	<p><img src="gfx/docs/ss08.png"> <img src="gfx/docs/ss09.png"><img src="gfx/docs/ss10.png"></p>
+![image](gfx/docs/ss08.png) ![image](gfx/docs/ss09.png) ![image](gfx/docs/ss10.png)
 
-	<p>
-	In a Tournament, players play games until one player has amassed a certain number of wins.
-	The number of the Tournament determines how many wins are required (so, if you pick Tournament
-	4, you have to win four times).  Each time a player wins, they will receive an icon on the
-	scoreboard (first picture, above).  This icon will be representative of the mode played.
-	</p>
+In a Tournament, players play games until one player has amassed a certain number of wins.
+The number of the Tournament determines how many wins are required (so, if you pick Tournament
+4, you have to win four times).  Each time a player wins, they will receive an icon on the
+scoreboard (first picture, above).  This icon will be representative of the mode played.
 
-	<p>
-	In a Tour, players play a series of predetermined games ("tour stops").  At the end of each
-	game, players receive points based on how well they placed, and icons will be displayed on
-	the scoreboard (second picture, above) to show just how each player placed in that round.
-	Tours can be created by making a text file in the game's Tours subdirectory, following the
-	correct format (check out simple.txt for more info).  It is possible to designate how valuable
-	each individual tour stop is (this information is displayed along the top of the scoreboard -
-	see the screenshot), as well as which tour stops grant a bonus item to the winner.
-	</p>
 
-	<p>
-	In a World Map, a random player is given control of the board to start.  Players navigate the map and
-	play predetermined games to compete for the best score.  To check and/or play a 	game on the map, 
-	press Turbo on the game's tile. (Enter for Player 1.)  The screen preceding a game shows the name of 
-	the Map Stop, map, mode, and goal.  Also shown are any items rewarded after the game and the point 
-	value for the Map Stop.  The winner of the game gains control of the board.  Items gained from Mushroom 
-	Houses, game rewards, etc., can be accessed by pressing Use Item.  To use an item in your inventory, 
-	select it and press Turbo.
-	</br><img src="gfx/docs/ss11.png">
-	</br>For a list of the World Map items, take a look at the Items and Special Blocks section towards the
-	middle of the manual.  Mushroom Houses can be found on many World Maps, so make good use of them!
-	Each Mushroom House can hold up to five items to choose from.  The items may be in order, or they may be random,
-	depending on how it's set up in the world's txt file. To open a chest, simply stand in front of it and press Turbo.<br>
-	<img src="gfx/docs/ss13.png"><br>
-	In addition to predetermined games and Mushroom Houses, there are vehicle tiles,
-	which move after every game or Mushroom House.  Upon landing on one, it will automatically start the
-	game set to it.  In some maps, there are bridges that rise and lower with each game, blocking players
-	from travelling across.  There are also warp pipes that can be used to travel.  Along with those, there are
-	locked doors, which can be opened with a key obtained through one of the games on the map.  The World
-	Map match ends when the game marked "End Stage" has been played.
-	There can be more than one of these per map.
-	</p>
+In a Tour, players play a series of predetermined games ("tour stops").  At the end of each
+game, players receive points based on how well they placed, and icons will be displayed on
+the scoreboard (second picture, above) to show just how each player placed in that round.
+Tours can be created by making a text file in the game's Tours subdirectory, following the
+correct format (check out simple.txt for more info).  It is possible to designate how valuable
+each individual tour stop is (this information is displayed along the top of the scoreboard -
+see the screenshot), as well as which tour stops grant a bonus item to the winner.
+
+In a World Map, a random player is given control of the board to start.  Players navigate the map and
+play predetermined games to compete for the best score.  To check and/or play a 	game on the map, 
+press Turbo on the game's tile. (Enter for Player 1.)  The screen preceding a game shows the name of 
+the Map Stop, map, mode, and goal.  Also shown are any items rewarded after the game and the point 
+value for the Map Stop.  The winner of the game gains control of the board.  Items gained from Mushroom 
+Houses, game rewards, etc., can be accessed by pressing Use Item.  To use an item in your inventory, 
+select it and press Turbo.  
+
+![image](gfx/docs/ss11.png)  
+For a list of the World Map items, take a look at the Items and Special Blocks section towards the
+middle of the manual.  Mushroom Houses can be found on many World Maps, so make good use of them!
+Each Mushroom House can hold up to five items to choose from.  The items may be in order, or they may be random,
+depending on how it's set up in the world's txt file. To open a chest, simply stand in front of it and press Turbo.  
+
+![image](gfx/docs/ss13.png)  
+
+In addition to predetermined games and Mushroom Houses, there are vehicle tiles,
+which move after every game or Mushroom House.  Upon landing on one, it will automatically start the
+game set to it.  In some maps, there are bridges that rise and lower with each game, blocking players
+from travelling across.  There are also warp pipes that can be used to travel.  Along with those, there are
+locked doors, which can be opened with a key obtained through one of the games on the map.  The World
+Map match ends when the game marked "End Stage" has been played.
+There can be more than one of these per map.
 	
-	<p>
-	At the end of a Tournament, or after every game within the Tournament if that option is set
-	(see the Options section towards the end of this manual), the winner will get a chance to
-	spin the bonus wheel to acquire an item that they can use in the next game or games.  However,
-	in Tours, the bonus wheel will only appear in places where the tour's creator designates it,
-	regardless of any current settings.  Tour stops with this opportunity are represented on the
-	scoreboard as small winged yellow boxes.
-	</p>
- </div>
+At the end of a Tournament, or after every game within the Tournament if that option is set
+(see the Options section towards the end of this manual), the winner will get a chance to
+spin the bonus wheel to acquire an item that they can use in the next game or games.  However,
+in Tours, the bonus wheel will only appear in places where the tour's creator designates it,
+regardless of any current settings.  Tour stops with this opportunity are represented on the
+scoreboard as small winged yellow boxes.
 
- <h2 id="c_"><a href="javascript:toggleIt('c')">Controls [click to view]</a></h2>
- <div id="c" class="leftbar" style="display: none;">
+## Controls
 
-	 <h3 id="pck_"><a href="javascript:toggleIt('pck')">PC - Keyboard [click to view]</a></h3>
-	 <div id="pck" style="display: none;">
+### PC -- Keyboard
 
-		 <p>
-		 The following are the default controls.  Controls can be configured within the
-		 Controls menu, accessible from the main menu.  From there, you can also switch
-		 your input devices to joysticks (see the next section for information on joystick
-		 controls).
-		 </p>
+The following are the default controls.  Controls can be configured within the
+Controls menu, accessible from the main menu.  From there, you can also switch
+your input devices to joysticks (see the next section for information on joystick controls).
 
-		 <h4>Game controls</h4>
+#### Game controls
 		 <div>
 			<table>
 			<tr class="borderbottom"><td class="borderright">&nbsp;</td>
