@@ -2,25 +2,16 @@
 # Super Mario War 1.8 - ReadMe
  
  2004-2015 (c) Florian Hufsky, Two52, Thanatermesis, and many others.
- Last ReadMe update: 30 May 2020<br/><br/>
+ Last ReadMe update: 11 June 2020<br/><br/>
 [Official SMW website](http://smw.supersanctuary.net)  
 [SMW forum](http://72dpiarmy.supersanctuary.net)
 
  <a href="http://smwstuff.net">Official Fan-Made Content Website</a></p>
  
-<h2>A quick note</h2>
- <div>
-	<p>
-	If you have problems opening the Readme Sections in IE, you should disable the automatic disabling
-	of Javascript. (If you're having problems, a security notice probably popped up somewhere in your
-	window.)  Even better, <a href="http://www.getfirefox.com">try an alternate browser!</a>
-	</p>
+## A quick note
 
-	<p>
-
-	Super Mario War was developed by Florian Hufsky, Two52 and many more contributors. For
-	a complete list of all these wonderful people, please see the file THANKS.txt which was included 
-	in this distribution.  A list of changes to the game can also be found in WHATSNEW.txt, which
+Super Mario War was developed by Florian Hufsky, Two52 and many more contributors. For a complete list of all these wonderful people, please see the file THANKS.txt which was included 
+in this distribution.  A list of changes to the game can also be found in WHATSNEW.txt, which
 should be in the same place.
 
 If you create a map or some other content that you would like to share, or if you would like to share your 
@@ -29,63 +20,46 @@ time, and your feedback and user-content is always welcome and appreciated, so p
 Also, we have an official outlet for fan-made content like maps, music packs, skins, announcers,
 etc.  Head on over to the <a href="http://smwstuff.net">Super Mario War Stuff</a> website.  It's full
 of the latest content released by fans of the game.  Don't like how the menu looks?  Try downloading
-a new menu pack!  Tired of playing the same maps over and over?  There are hundreds more available!
-	More skins?  We've got tons!  Need somewhere to post content of your own?  That's what it's there for!
-	Take a moment and check it out!
-	</p>
+a new menu pack!  Tired of playing the same maps over and over? There are hundreds more available!
+
+More skins?  We've got tons!  Need somewhere to post content of your own?  That's what it's there for!  
+Take a moment and check it out!
 
 	
-	Oh, and one other little note: for the most part, this manual was written for use with the PC version
-	of Super Mario War.  Some things are different on the Xbox version.  If there is anything
-	important that we missed documenting that specifically applies to the Xbox version, please let us
-	know on the forums and we'll add it to this manual.  Of course, if there's anything pertaining to
-	both versions that we've missed, you should let us know about that, too!
-	</p>
+Oh, and one other little note: for the most part, this manual was written for use with the PC version
+of Super Mario War.  Some things are different on the Xbox version.  If there is anything
+important that we missed documenting that specifically applies to the Xbox version, please let us
+know on the forums and we'll add it to this manual.  Of course, if there's anything pertaining to
+both versions that we've missed, you should let us know about that, too!
 
- </div>
 
-<h2 id="gs_"><a href="javascript:toggleIt('gs')">Getting Started [click to view]</a></h2>
+## Getting started
 
- <div id="gs" class="leftbar" style="display: none;">
-	<img src="gfx/docs/ss01.png"></p>
+![Image](gfx/docs/ss01.png)
 
 	
-	Super Mario War is a game for up to four players with many different modes of play.  The basic
-	goal of the game is to be the last player standing, and to accomplish this goal you must jump
-	on your opponents' heads to kill them.  There are many Mario-themed items you can use to help
-	you kill your opponents, as well.  In addition, there are several variations on this basic
-	gameplay mechanic which you can try, such as Chicken, Capture The Flag, and so on.  Plus, for
-	those who enjoy customization, there are several aspects of the game which you can tweak to
-	your liking through the Options menus, and if you like, you can make your own maps, skins, and
-	other custom content to use (or download others' to use), too!
-	</p>
+Super Mario War is a game for up to four players with many different modes of play.  The basic	goal of the game is to be the last player standing, and to accomplish this goal you must jump
+on your opponents' heads to kill them.  There are many Mario-themed items you can use to help you kill your opponents, as well.  In addition, there are several variations on this basic gameplay mechanic which you can try, such as Chicken, Capture The Flag, and so on.  Plus, for those who enjoy customization, there are several aspects of the game which you can tweak to your liking through the Options menus, and if you like, you can make your own maps, skins, and other custom content to use (or download others' to use), too!
 
 	
-	This section of the manual explains how to navigate the game's menus, and contains a short
-	explanation of Tournaments and Tours as well.  Please note that all of the controls listed in
-	this section are defaults, and can be reconfigured if you like.
-	</p>
+This section of the manual explains how to navigate the game's menus, and contains a short explanation of Tournaments and Tours as well.  Please note that all of the controls listed in this section are defaults, and can be reconfigured if you like.
 
-	<h3>The Main Menu</h3>
-	<img src="gfx/docs/ss02.png"></p>
+### The Main Menu
 
-	<p>
-	From this menu, you can access everything else in the game.
-	<li><b>Start</b> will take you to the Match Type Menu (see below).
-	<li><b>Players</b> allows you to change players between Player (human), Bot (computer), and
-	None.  You can't have less than two players active at any one time.
-	<li><b>Options</b> takes you to the Options menu.  For more information, check its section
-	towards the end of this manual.
-	<li><b>Controls</b> lets you configure the players' control schemes to your liking.  For more
-	info, check the Controls section of this manual.
-	<li><b>Exit</b> causes the game to exit.
-	</p>
+<img src="gfx/docs/ss02.png">
 
-	<h3>Match Type Menu</h3>
-	<p><img src="gfx/docs/ss03.png"></p>
+From this menu, you can access everything else in the game.
+- **Start will** take you to the Match Type Menu (see below).
+- __Players__ allows you to change players between Player (human), Bot (computer), and None.  You can't have less than two players active at any one time.
+- **Options** takes you to the Options menu.  For more information, check its section towards the end of this manual.
+- __Controls__ lets you configure the players' control schemes to your liking.  For more info, check the Controls section of this manual.
+- **Exit** causes the game to exit.
 
-	<p>
-	From this screen, you can choose which type of match you'd like to play.
+### Match Type Menu
+
+<img src="gfx/docs/ss03.png">
+
+From this screen, you can choose which type of match you'd like to play.
 	<li>You can change the type of match by selecting the Match option and pressing Enter.
 	<li>(If you're using a joystick, press Jump to lock in your selection.)
 	<li>The match choices available are Single Game, Tournament, Tour, and the new World Map mode.
@@ -97,8 +71,8 @@ a new menu pack!  Tired of playing the same maps over and over?  There are hundr
 	<h3>Team and Character Selection</h3>
 	<p><img src="gfx/docs/ss04.png"></p>
 
-	<p>
-	From this screen, you can configure who is using which character and is on which team.
+
+From this screen, you can configure who is using which character and is on which team.
 	<li>You can select what character you'd like to be, out of all the skins you have on your
 	machine, with Up and Down.
 	<li>You can select what team you want to be on with Left and Right.
@@ -113,11 +87,10 @@ a new menu pack!  Tired of playing the same maps over and over?  There are hundr
 	</br>After all players have locked in, you can press Enter on this screen to start your selected match type.
 	</p>
 
-	<h3>Single Game Menu</h3>
-	<p><img src="gfx/docs/ss05.png"></p>
+<h3>Single Game Menu</h3>
+<p><img src="gfx/docs/ss05.png"></p>
 
-	<p>
-	From this menu, you can select your game mode, select the map you wish to use, change various
+From this menu, you can select your game mode, select the map you wish to use, change various
 	mode settings, and tag your maps for easy selection.  (When playing a Tour or World Map, all options on
 	this screen, besides Start, are disabled.)
 	<li><b>Start</b> starts the game.
@@ -139,11 +112,10 @@ a new menu pack!  Tired of playing the same maps over and over?  There are hundr
 	view other pages, scroll up or down off the screen, or hold Left Shift and press Up or Down.
 	</p>
 
-	<h3>Playing the Game</h3>
-	<p><img src="gfx/docs/ss06.png"> <img src="gfx/docs/ss07.png"></p>
+<h3>Playing the Game</h3>
+<p><img src="gfx/docs/ss06.png"> <img src="gfx/docs/ss07.png"></p>
 
-	<p>
-	The main goal of the game is to stomp on your opponents' heads to kill them, although depending
+The main goal of the game is to stomp on your opponents' heads to kill them, although depending
 	on the map you're playing on, you may be able to kill them in other ways, such as with items.
 	There may also be additional rules or a different way of winning, depending on the mode you are
 	playing; for information on these, you can check the Game Modes section of this manual.  For
