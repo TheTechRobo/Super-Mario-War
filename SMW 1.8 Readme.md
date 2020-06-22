@@ -60,57 +60,37 @@ From this menu, you can access everything else in the game.
 <img src="gfx/docs/ss03.png">
 
 From this screen, you can choose which type of match you'd like to play.
-	<li>You can change the type of match by selecting the Match option and pressing Enter.
-	<li>(If you're using a joystick, press Jump to lock in your selection.)
-	<li>The match choices available are Single Game, Tournament, Tour, and the new World Map mode.
-	<li>Once the Match option has been selected, you can choose the type of match with Left and Right.
-	<li>After you've decided on a match type, select Start and press Enter (or Jump using a joystick) 
-	to go to the Team and Character Selection Menu.
-	</p>
+- You can change the type of match by selecting the Match option and pressing Enter.
+- (If you're using a joystick, press Jump to lock in your selection.)
+- The match choices available are Single Game, Tournament, Tour, and the new World Map mode.
+- Once the Match option has been selected, you can choose the type of match with Left and Right.
+- After you've decided on a match type, select Start and press Enter (or Jump using a joystick) to go to the Team and Character Selection Menu.
 
-	<h3>Team and Character Selection</h3>
-	<p><img src="gfx/docs/ss04.png"></p>
+### Team and Character Selection
+
+![screenshot](gfx/docs/ss04.png)
 
 
-From this screen, you can configure who is using which character and is on which team.
-	<li>You can select what character you'd like to be, out of all the skins you have on your
-	machine, with Up and Down.
-	<li>You can select what team you want to be on with Left and Right.
-	<li>If you want to have the game select a skin for you at random, press Up and Down together
-	(or if using a joystick, press the Random button).
-	<li>If you want to have a different random skin at the beginning of each match, without being
-	able to see it beforehand, press Left and Right together (or with a joystick, press the
-	Fast-Scroll and Random buttons together), which will change your skin into a flashing letter R.
-	<li>Press your Turbo key to lock in your selection, unless you're Player 1, who uses Enter.
-	(If you're using a joystick, press Jump to lock in your selection, no matter which player you
-	are.)
-	</br>After all players have locked in, you can press Enter on this screen to start your selected match type.
-	</p>
+From this screen, you can configure who is using which character and is on which team.  
+- You can select what character you'd like to be, out of all the skins you have on your machine, with Up and Down.
+- You can select what team you want to be on with Left and Right.
+- If you want to have the game select a skin for you at random, press Up and Down together (or if using a joystick, press the Random button).
+- If you want to have a different random skin at the beginning of each match, without being able to see it beforehand, press Left and Right together (or with a joystick, press the Fast-Scroll and Random buttons together), which will change your skin into a flashing letter R.
+- Press your Turbo key to lock in your selection, unless you're Player 1, who uses Enter. (If you're using a joystick, press Jump to lock in your selection, no matter which player you are.)  
 
-<h3>Single Game Menu</h3>
-<p><img src="gfx/docs/ss05.png"></p>
+After all players have locked in, you can press Enter on this screen to start your selected match type.
 
-From this menu, you can select your game mode, select the map you wish to use, change various
-	mode settings, and tag your maps for easy selection.  (When playing a Tour or World Map, all options on
-	this screen, besides Start, are disabled.)
-	<li><b>Start</b> starts the game.
-	<li><b>Mode</b> allows you to change game modes.  For info on these, please refer to the Game
-	Modes section of this manual.
-	<li><b>Lives/Kills/Time/Etc.</b> allows you to change the current game mode's basic parameter
-	(i.e. the game length).
-	<li><b>Map</b> allows you to change the map you want to use.  You can press Left or Right to
-	pick another map, or hold Left Shift and press Left or Right to go forward or backward 10
-	maps at a time.  You can also repeatedly press a letter or a number to cycle through maps whose
-	names start with it, or quickly type in part of a map's name to search for it.
-	<li><b>Filters</b> allows you to select maps that only meet certain criteria.  You can select
-	one or more categories (such as whether or not the map contains moving platforms) and the
-	game will only give you maps that meet all the criteria established.  The bottom category,
-	Simple, can be used as a custom filter by selecting the green question mark icon, which will
-	give you a thumbnail view (see below) of all the maps.  From there, maps can be toggled on
-	(signified by a little coin) and off.
-	<li><b>Thumbs</b> allows you to view many maps at once with a "thumbnail"-style view.  To
-	view other pages, scroll up or down off the screen, or hold Left Shift and press Up or Down.
-	</p>
+### Single Game Menu
+![Screenshot](gfx/docs/ss05.png)
+
+From this menu, you can select your game mode, select the map you wish to use, change various mode settings, and tag your maps for easy selection.  (When playing a Tour or World Map, all options on this screen, besides Start, are disabled.)
+- **Start** starts the game.
+- **Mode** allows you to change game modes.  For info on these, please refer to the Game Modes section of this manual.
+- **Lives/Kills/Time/Etc** allows you to change the current game mode's basic parameter (i.e. the game length).
+- **Map** allows you to change the map you want to use.  You can press Left or Right to pick another map, or hold Left Shift and press Left or Right to go forward or backward 10 maps at a time.  You can also repeatedly press a letter or a number to cycle through maps whose names start with it, or quickly type in part of a map's name to search for it.
+- **Filters** allows you to select maps that only meet certain criteria.  You can select one or more categories (such as whether or not the map contains moving platforms) and the game will only give you maps that meet all the criteria established.  The bottom category, Simple, can be used as a custom filter by selecting the green question mark icon, which will give you a thumbnail view (see below) of all the maps.  From there, maps can be toggled on (signified by a little coin) and off.
+- **Thumbs** allows you to view many maps at once with a "thumbnail"-style view.  To view other pages, scroll up or down off the screen, or hold Left Shift and press Up or Down.
+
 
 ### Playing the Game
 ![image](gfx/docs/ss06.png) ![image](gfx/docs/ss07.png)
